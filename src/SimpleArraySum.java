@@ -3,9 +3,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-/**
- * Created by abhinay.joshi on 03-07-2018.
- */
+
 public class SimpleArraySum {
     /*
     * Complete the simpleArraySum function below.
